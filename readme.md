@@ -1,4 +1,4 @@
-## Parameter-Efficient Fine-Tuning with Layer Pruning on Medical Report Summarization and Medical Dialogue Generation
+## Parameter-Efficient Fine-Tuning with Layer Pruning on Free-Text Sequence-to-Sequence Modeling
 
 [arXiv](https://arxiv.org/abs/2305.08285)
 
