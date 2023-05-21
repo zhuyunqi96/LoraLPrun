@@ -32,3 +32,19 @@ python run_t5_lora.py config_HCM_t5.json
 python run_t5_lora.py config_icliniq_t5.json
 
 ```
+
+
+
+Citation
+
+```bash
+@misc{zhu2023parameterefficient,
+      title={Parameter-Efficient Fine-Tuning with Layer Pruning on Free-Text Sequence-to-Sequence modeling}, 
+      author={Yunqi Zhu and Xuebing Yang and Yuanyuan Wu and Wensheng Zhang},
+      year={2023},
+      eprint={2305.08285},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
